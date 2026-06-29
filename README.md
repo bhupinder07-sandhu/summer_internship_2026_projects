@@ -1,38 +1,22 @@
 # 🚀 Summer Internship 2026 - Machine Learning Projects
 
-<div align="center">
+> **20+ Machine Learning & Data Science Projects** completed during my **Summer Internship at Ducat India**.
 
-# 20+ Machine Learning & Data Science Projects
-
-### Summer Internship at Ducat India
-
-[![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)](https://python.org)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange?style=for-the-badge&logo=scikitlearn)](https://scikit-learn.org)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow)](https://tensorflow.org)
-[![Power BI](https://img.shields.io/badge/Power%20BI-Visualization-F2C811?style=for-the-badge&logo=powerbi)](https://powerbi.microsoft.com)
-
-</div>
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?style=flat-square&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-FF6F00?style=flat-square&logo=tensorflow)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?style=flat-square&logo=powerbi)
+![Projects](https://img.shields.io/badge/Projects-20+-success?style=flat-square)
 
 ---
 
 # 📖 About
 
-This repository contains **20+ Machine Learning and Data Science projects** completed during my **Summer Internship at Ducat India**.
+This repository contains **20+ Machine Learning and Data Science projects** developed during my **Summer Internship at Ducat India**.
 
-The objective of this repository is to demonstrate practical implementation of Machine Learning concepts using real-world datasets and industry-standard tools.
+These projects demonstrate practical implementation of Machine Learning algorithms, Deep Learning, Natural Language Processing, Data Visualization, and Power BI using real-world datasets.
 
-Throughout this internship, I worked on projects covering the complete Machine Learning pipeline, including:
-
-- Data Cleaning
-- Data Preprocessing
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
-- Machine Learning Model Development
-- Deep Learning
-- Natural Language Processing (NLP)
-- Model Evaluation
-- Data Visualization
-- Deployment
+The goal of this repository is to showcase my learning journey, hands-on experience, and continuous growth in Artificial Intelligence and Data Science.
 
 ---
 
@@ -47,150 +31,100 @@ Throughout this internship, I worked on projects covering the complete Machine L
 - TensorFlow / Keras
 - Streamlit
 - Power BI
-- Jupyter Notebook
 - Git & GitHub
+- Jupyter Notebook
 
 ---
 
 # 🤖 Algorithms & Concepts Covered
 
-## Regression
+### Regression
 - Linear Regression
 - Decision Tree Regression
 - Random Forest Regression
 - Support Vector Regression (SVR)
 - KNN Regression
 
-## Classification
+### Classification
 - Logistic Regression
 - Decision Tree Classification
 - Random Forest Classification
 - Support Vector Machine (SVM)
 - KNN Classification
 
-## Clustering
+### Clustering
 - K-Means Clustering
 
-## Deep Learning
+### Deep Learning
 - Artificial Neural Networks (ANN)
 - Convolutional Neural Networks (CNN)
 
-## Natural Language Processing
+### Natural Language Processing
 - Sentiment Analysis
 - Text Classification
 
 ---
 
-# 📂 Repository Structure
+# 📂 Projects Included
 
-📁 ANN
-
-📁 CNN
-
-📁 Data Cleaning
-
-📁 Linear Regression
-
-📁 Logistic Regression
-
-📁 Decision Tree Classification
-
-📁 Decision Tree Regression
-
-📁 Random Forest Classification
-
-📁 Random Forest Regression
-
-📁 Support Vector Machine (SVM)
-
-📁 Support Vector Regression (SVR)
-
-📁 KNN Classification
-
-📁 KNN Regression
-
-📁 NLP
-
-📁 Seaborn
-
-📁 Matplotlib
-
-📁 Power BI Projects
-
-...and more.
+| Category | Projects |
+|----------|----------|
+| Data Preprocessing | Data Cleaning (3 Projects) |
+| Regression | Linear Regression, Decision Tree, Random Forest, KNN, SVR |
+| Classification | Logistic Regression, Decision Tree, Random Forest, KNN, SVM |
+| Deep Learning | ANN, CNN |
+| NLP | Sentiment Analysis |
+| Visualization | Matplotlib, Seaborn |
+| Dashboard | Power BI Projects |
 
 ---
 
 # 🎯 Skills Developed
 
-✔ Data Cleaning
-
-✔ Feature Engineering
-
-✔ Data Visualization
-
-✔ Machine Learning
-
-✔ Deep Learning
-
-✔ Natural Language Processing
-
-✔ Model Evaluation
-
-✔ Model Deployment
-
-✔ Streamlit Development
-
-✔ Git & GitHub
-
-✔ Power BI Dashboard Development
-
----
-
-# 📈 Learning Outcomes
-
-This internship significantly improved my understanding of:
-
-- Real-world Machine Learning workflows
-- Model selection and evaluation
-- Data preprocessing techniques
-- End-to-end ML application development
-- Problem-solving using AI
-- Software development best practices
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Model Evaluation
+- Streamlit Application Development
+- Power BI Dashboard Development
+- Git & GitHub Version Control
 
 ---
 
 # 🙏 Acknowledgements
 
-I sincerely thank **Ducat India**, our respected **Director Mr. Sanyam Dixit**, and my trainers **Prateek Gupta** and **Divyank Chauhan** for their constant guidance, mentorship, and encouragement throughout this internship.
+I sincerely thank **Ducat India**, our respected **Director Mr. Sanyam Dixit**, and my trainers **Prateek Gupta** and **Divyank Chauhan** for their continuous guidance, mentorship, and encouragement throughout this internship.
 
-I also express my heartfelt gratitude to **PCTE Group of Institutes, Ludhiana**, our respected **Dean Dr. Kapil Prashar**, the faculty members, and the Department of Artificial Intelligence & Machine Learning for their continuous support.
+I also express my heartfelt gratitude to **PCTE Group of Institutes, Ludhiana**, our respected **Dean Dr. Kapil Prashar**, the faculty members, and the Department of Artificial Intelligence & Machine Learning for their constant support.
 
 Special thanks to my friends and fellow interns for their collaboration, motivation, and encouragement throughout this learning journey.
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 About Me
 
-## Bhupinder Sandhu
+**Bhupinder Sandhu**
 
-🎓 B.Tech Artificial Intelligence & Machine Learning
+🎓 B.Tech - Artificial Intelligence & Machine Learning
 
-📍 Ludhiana, Punjab
+💻 Aspiring Machine Learning Engineer
 
-💻 Machine Learning | Data Science | AI Enthusiast
-
----
-
-# ⭐ If you like this repository...
-
-Please consider giving it a **Star ⭐**.
-
-Your support motivates me to build more exciting Machine Learning projects.
+🌱 Passionate about AI, Data Science, Deep Learning & Computer Vision
 
 ---
 
-# 📬 Connect with Me
+# ⭐ Support
+
+If you found this repository useful, please consider giving it a **⭐ Star**.
+
+Your support motivates me to build and share more projects with the community.
+
+---
+
+# 📬 Connect With Me
 
 ### GitHub
 
@@ -202,4 +136,6 @@ www.linkedin.com/in/bhupinder-sandhu-580b4435a
 
 ---
 
-## 🚀 Thank you for visiting this repository!
+## 🚀 Thanks for visiting this repository!
+
+*"Learning never stops. Every project is another step toward becoming a better AI Engineer."*
